@@ -1,4 +1,4 @@
-folder: testvms
-datacenter: datacenter1
-esxi: 172.16.66.128
+folder: QNC
+datacenter: QNC-BMS
+esxi: p-qnc-vc6-01.jnpr.net
 datastore: datastore1
